@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![3d-gif](https://user-images.githubusercontent.com/66321703/180831694-e80ba012-0266-4f1d-babc-e29924989b50.gif)
-
+<div style="text-align: center; padding: auto;">
+  ![BliM](https://user-images.githubusercontent.com/66321703/180833780-4625b662-b80e-401c-8725-181aeb61adba.gif)
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marc-Bourgeois&count_private=true&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
