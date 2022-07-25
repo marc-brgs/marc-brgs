@@ -16,8 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Notepad++](https://camo.githubusercontent.com/c767f4a70198091d07105a0cb5c36a243d4120344d2575eee8acbb16aca096a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74657061642b2b2d3930453539412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f7465706164253262253262266c6f676f436f6c6f723d626c61636b)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
