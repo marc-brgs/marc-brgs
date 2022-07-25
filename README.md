@@ -2,9 +2,10 @@
 
 ![BliM](https://user-images.githubusercontent.com/66321703/180833780-4625b662-b80e-401c-8725-181aeb61adba.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marc-Bourgeois&count_private=true&show_icons=true&theme=dracula)
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Marc-Bourgeois&count_private=true&show_icons=true&theme=dracula" />
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <!--
 **Marc-Bourgeois/Marc-Bourgeois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
