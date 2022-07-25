@@ -2,6 +2,8 @@
 
 ![3d-gif](https://user-images.githubusercontent.com/66321703/180831694-e80ba012-0266-4f1d-babc-e29924989b50.gif)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marc-Bourgeois&count_private=true&show_icons=true&theme=dracula)
+
 <!--
 **Marc-Bourgeois/Marc-Bourgeois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
