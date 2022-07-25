@@ -1,7 +1,7 @@
 ### Hi there, I'm Marc 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Marc-Bourgeois&count_private=true&show_icons=true&theme=dracula" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marc-brgs&count_private=true&show_icons=true&theme=dracula" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact" />
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
