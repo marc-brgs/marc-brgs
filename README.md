@@ -1,7 +1,7 @@
 ### Hi there, I'm Marc 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marc-brgs&count_private=true&show_icons=true&theme=dracula" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact&langs_count=6" />
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
