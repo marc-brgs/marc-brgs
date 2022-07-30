@@ -1,9 +1,11 @@
 ### Hi there, I'm Marc 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marc-brgs&count_private=true&show_icons=true&theme=dracula" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact&langs_count=6" />
+<div>
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=marc-brgs&count_private=true&show_icons=true&theme=dracula" />
+  <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact&langs_count=6" />
+</div>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
