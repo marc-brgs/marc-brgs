@@ -1,5 +1,7 @@
 ## Hi there, I'm Marc 👋
 
+![](https://komarev.com/ghpvc/?username=marc-brgs&style=for-the-badge)
+
 <div align="center">
   
   [![Hi there, I'm Marc!](https://github.com/user-attachments/assets/ca7e43f4-1b84-4734-ae03-0470513e71d6)](https://github.com/marc-brgs)
@@ -22,7 +24,7 @@
 <div align="center">
   <img  height=175 src="https://github-readme-stats.vercel.app/api?username=marc-brgs&count_private=true&show_icons=true&theme=dark" />
   &emsp;
-  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact&langs_count=6&theme=dark" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact&langs_count=6&exclude_repo=Ice-Cream-Configurator&theme=dark" />
 </div>
 
 ---
