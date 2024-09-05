@@ -1,22 +1,33 @@
 ### Hi there, I'm Marc 👋
 
-<p align="center">
-  <img margin="100px" width="98%" src="https://github.com/user-attachments/assets/ca7e43f4-1b84-4734-ae03-0470513e71d6" />
-</p>
+<div align="center">
+  
+  [![Hi there, I'm Marc!](https://github.com/user-attachments/assets/ca7e43f4-1b84-4734-ae03-0470513e71d6)](https://github.com/marc-brgs)
+  *Trackmania² Stadium : [SIC - Rebecca Purple](https://tm.mania-exchange.com/maps/244023/sic-rebecca-purple)*
+  
+</div>
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/dirtytm) &nbsp;
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/DirtyTM) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-bourgeois-5ab3411a4)
+
+</div>
 
 ---
 
-### Stats
+### 🏆 Stats
 
-<p align="center">
-  <img  height="200" src="https://github-readme-stats.vercel.app/api?username=marc-brgs&count_private=true&show_icons=true&theme=dark" />
+<div align="center">
+  <img  height=175 src="https://github-readme-stats.vercel.app/api?username=marc-brgs&count_private=true&show_icons=true&theme=dark" />
   &emsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact&langs_count=6&theme=dark" />
-</p>
+  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-brgs&layout=compact&langs_count=6&theme=dark" />
+</div>
 
 ---
 
-### Skills
+### 🚀 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=unity,unrealengine,threejs,js)](https://skillicons.dev)
 
